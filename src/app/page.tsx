@@ -22,9 +22,9 @@ export default function Home() {
 
         <Link
           className={buttonVariants({ variant: "outline" })}
-          href="./doc-editor"
+          href="./document-editor"
         >
-          Doc Editor
+          Document Editor
         </Link>
       </div>
     </main>
